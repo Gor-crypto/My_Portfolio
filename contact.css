@@ -161,17 +161,21 @@ footer {
 }
 
 .text {
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 footer .img-3 {
     margin-top: 20px;
 }
 
+.p-4 {
+    display: flex;
+    justify-content: center;
+    margin-left: -70px;
+}
 
 .mb4 {
     display: flex;
-    margin-left: 4000px;
 }
 
 
